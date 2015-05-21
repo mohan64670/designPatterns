@@ -2,6 +2,9 @@ package com.premaseem.interpreterPattern;
 
 import java.util.Date;
 
+// this is for merge 2
+
+
 public abstract class AbstractExpression {
 
 	public abstract void evaluate(Context context);

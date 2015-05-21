@@ -1,5 +1,7 @@
 package com.premaseem.decorator;
 
+// this is for merge 1 
+
 public abstract class AbstractCoffeRoot {
 
 	String description = " Coffee root ";
